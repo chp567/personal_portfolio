@@ -4,8 +4,8 @@
     "description":"I am a scrum master/technical manager in IT projects and I used react and jquery to develop this page. This page is a resume about me and my professional experiences",
     "image":"tete.jpg",
     "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for management, system architecture,  and a passion for coding. Born in a small town in north of France, I made my move to Lille where I work as an enggineer student in IT domains, but also for other projects alongside my school. I love to create and tend to keep a few too many projects on the go at a time. Outside of work I am an avid racing sports, golf player and tennis player. I love to travel and lead a fairly nomadic lifestyle. I also like travel and I dream of being able to take my work with me while travelling the world.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "charles.perrard@viacesi.fr",
+    "phone": "+33 761259482",
     "github":"https://github.com/chp567",
     "project":"https://github.com/chp567/personal_portfolio",
     "address":{
@@ -45,46 +45,52 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Ici vous pouvez voir toutes mes compétences, pour imaginer quel genre de personne je suis...",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Engineering DEGREE Speciality Computer science/Software",
+        "degree":"Masters (5 years)",
+        "graduated":"June 2024",
+        "description":"CESI France, National School of Engineering"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"AUCHAN RETAIL",
+        "title":"Traineeship (administrator/technician)",
+        "years":"January - April 2022",
+        "description":"IT system improvements: complete implementation of Elastic Search, evolution of technical documentation, new processes with JIRA, creation of control pages in PHP and nationwide deployments."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"NEWCARD",
+        "title":"Traineeship (junior dev) -> connected medicine startup",
+        "years":"May 2021 - August 2021",
+        "description":"Creation of OCR software (Optical Character Recognition): Created a program to scan and retrieve blood test data and send it to a database, this program was with JAVASCRIPT/PYTHON language (back-end/front-end side)."
+      },
+      {
+        "company":"SPARKLING Tech",
+        "title":"Traineeship",
+        "years":"November 2016 - December 2016",
+        "description":"Creation of a network for surveillance cameras and I Used a Raspberry Pi on Linux. I Created a network of surveillance cameras (functional)."
+      },
+      {
+        "company":"SPARKLING Partners",
+        "title":"Traineeship (startup incubator)",
+        "years":"March 2016 - April 2016",
+        "description":"Game creation/design : I created a Space Invaders (arcade games) with an arduino program (created by myself) (functional)."
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
+        "level":"70%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"SQL (all types of SQL)",
+        "level":"87%"
       },
       {
-        "name":"ReactJs",
+        "name":"Javascript (React...)",
         "level":"50%"
       },
       {
@@ -96,88 +102,58 @@
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"C/C++",
         "level":"50%"
       },
       {
-        "name":"JAVA",
+        "name":"DOCKER",
+        "level":"70%"
+      },
+      {
+        "name":"Office 365",
         "level":"80%"
+      },
+      {
+        "name":"ATLASSIAN SUIT (Jira...)",
+        "level":"95%"
+      },
+      {
+        "name":"ELASTICSEARCH",
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Artificial intelligence (OCR...)",
+        "category":"IA",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"http://charlesperrard.netlify.app"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Creation of ReactJS site",
+        "category":"ReactJS",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://charlesperrard.netlify.app"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Racing driver (national championship)",
+        "category":"Racing Driver",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"http://charlesperrard.netlify.app"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Cresi Racing (Association event)",
+        "category":"Cresi.",
+        "image":"04.png",
+        "url":"http://charlesperrard.netlify.app"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Cresi Gaming (association gaming)",
+        "category":"Cresi.",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"http://charlesperrard.netlify.app"
       }
     ]
   }
