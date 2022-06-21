@@ -3,8 +3,7 @@
     "name":"Charles Perrard",
     "description":"I am a scrum master/technical manager in IT projects and I used react and jquery to develop this page. This page is a resume about me and my professional experience",
     "image":"tete.jpg",
-    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Born in a small town in Northern BC, I made my move to Victoria where I work as a full stack developer for Instant Domain Search, alongside my many ongoing projects. I love to create and tend to keep a few too many projects on the go at a time. Outside of work I am an avid motorcyclist, soccer player and Muay Thai fighter. I love to travel and lead a fairly nomadic lifestyle. I built much of my early portfolio from beaches of Southeast Asia and dream of being able to take my work with me while travelling the world.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for management, system architecture,  and a passion for coding. Born in a small town in north of France, I made my move to Lille where I work as an enggineer student in IT domains, but also for other projects alongside my school. I love to create and tend to keep a few too many projects on the go at a time. Outside of work I am an avid racing sports, golf player and tennis player. I love to travel and lead a fairly nomadic lifestyle. I also like travel and I dream of being able to take my work with me while travelling the world.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/chp567",
@@ -15,8 +14,8 @@
       "state":"France",
       "zip": "(59270)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://charlesperrard.netlify.app",
+    "resumedownload":"public/images/resume/cv",
     "social":[
       {
         "name":"facebook",
